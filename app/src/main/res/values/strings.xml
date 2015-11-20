@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartBike</string>
+    <string name="Titulo">Smart Bike </string>
+    <string name = "Hint_Usuario">Ingrese su usuario</string>
+    <string name="Hint_Contraseña">Ingrese su contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Registrarse_por_Facebook">Registrarse por Facebook</string>
+</resources>
